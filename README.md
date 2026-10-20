@@ -51,3 +51,8 @@ Corrections are welcome as issues, with the source that shows the correction.
 - [What an AI Operating System holds](docs/what-an-ai-os-holds.md): the four parts, defined, with the entries that carry each.
 - [How to choose](docs/how-to-choose.md): the three questions a buyer is really answering.
 - [FAQ](docs/faq.md): short answers to the questions this list gets.
+
+## Two entries with a longer argument
+
+The list sorts products by what they run; two of the shelves have a longer write-up on opensourceaioperatingsystem.com. [Agent OS](https://opensourceaioperatingsystem.com/agent-os) is the term this list is named after and the page sorts the products that use it, and [self-hosting an AI operating system](https://opensourceaioperatingsystem.com/self-hosted-ai-operating-system) covers the entry that claims to run on your own infrastructure but ships a deployment path that does not.
+
